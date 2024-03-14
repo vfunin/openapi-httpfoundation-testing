@@ -1,5 +1,5 @@
 {
-    "name": "mib/openapi-httpfoundation-testing",
+    "name": "vfunin/openapi-httpfoundation-testing",
     "type": "library",
     "description": "Validate HttpFoundation requests and responses against OpenAPI (3.0.x) definitions",
     "keywords": [
