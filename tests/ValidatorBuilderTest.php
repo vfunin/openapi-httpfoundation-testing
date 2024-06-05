@@ -12,7 +12,7 @@ use Osteel\OpenApi\Testing\ValidatorBuilder;
 
 class ValidatorBuilderTest extends TestCase
 {
-    public function definitionProvider(): array
+    public static function definitionProvider(): array
     {
         return [
             ['fromYaml', self::$yamlDefinition],
